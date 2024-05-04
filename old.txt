@@ -1,0 +1,68 @@
+MID HEADER LOGO
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>916DUMPRUNS - Junk Removal Services in Sacramento, CA</title>
+    <meta name="description" content="916DUMPRUNS offers professional junk removal services in Sacramento, California. We specialize in residential and commercial junk hauling, appliance removal, furniture disposal, and more. Contact us for affordable and reliable junk removal solutions.">
+    <meta name="keywords" content="916DUMPRUNS, junk removal, junk hauling, Sacramento, California, appliance removal, furniture disposal">
+    <meta name="robots" content="index, follow">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,500;1,500&display=swap');
+        </style>
+
+    <link rel="stylesheet" href="./styles.css">
+    <script src="https://kit.fontawesome.com/e53bf076c4.js" crossorigin="anonymous"></script>
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="leftSideHeader">
+            <li class="size440 bars"><i class="fa-solid fa-xl fa-bars" style="color: #E85020;"></i></li>
+        </div>
+
+        <div class="midHeader">
+            <img class="headerlogo" src="./asstes/images/justinLogo.PNG" alt="">
+        </div>
+        <div class="rightSideHeader">
+            <li class="size440 phone" onclick="callPhoneNumber()" href="tel:9167671869"><i class="fa-solid fa-xl fa-phone  phone-icon" style="color: #E85020;"></i></li>
+        </div>
+    </header>
+
+    <div class="resTBODY">
+        <section class="hero-section">
+            <div class="container">
+                <h1>Efficient Junk Removal Services in Sacramento</h1>
+                <p>Get rid of clutter and reclaim your space with 916DUMPRUNS. We offer comprehensive junk removal solutions for homes and businesses in Sacramento, CA and the surrounding areas.</p>
+                <ul>
+                    <li>Garage Clean-Outs</li>
+                    <li>Furniture Removal</li>
+                    <li>Appliance Removal</li>
+                    <li>Construction Debris</li>
+                    <li>Storage Clean-Out</li>
+                    <li>E-waste Recycling</li>
+                    <li>Yard Clean-Out</li>
+                    <li>Dirt Removal</li>
+                </ul>
+                <p>Need to haul away junk yourself? We also provide convenient trailer rental services.</p>
+                <button class="button">Call Now!</button>
+            </div>
+        </section>
+        
+        
+    </div>
+
+</body>
+</html> 
+
+
+  <li>Garage Clean-Outs</li>
+            <li>Furniture Removal</li>
+            <li>Appliance Removal</li>
+            <li>Construction Debris</li>
+            <li>Storage Clean-Out</li>
+            <li>E-waste Recycling</li>
+            <li>Yard Clean-Out</li>
+            <li>Dirt Removal</li>
